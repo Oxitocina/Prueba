@@ -1,1 +1,2 @@
-push origin branchName para porsiaca
+git push origin branchName para porsiaca
+git merge branchName (desde master, previo pull)
