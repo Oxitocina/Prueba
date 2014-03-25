@@ -3,3 +3,5 @@ añadir al repo: git add archivo
 		git commit -m "mensaje"
 		git push
 bajarse cambios: git pull
+crear rama: git branch nombreRama
+cambiar a una rama: git checkout nombreRama
